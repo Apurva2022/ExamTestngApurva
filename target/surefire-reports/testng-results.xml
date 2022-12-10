@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="test.AddCategoryTest" duration-ms="22718" started-at="2022-12-08T18:24:24Z" finished-at="2022-12-08T18:24:46Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="22718" started-at="2022-12-08T18:24:24Z" finished-at="2022-12-08T18:24:46Z">
+      <class name="test.AddCategoryTest">
+        <test-method status="PASS" signature="initBrowser()[pri:0, instance:test.AddCategoryTest@2d6e8792]" name="initBrowser" is-config="true" duration-ms="3546" started-at="2022-12-08T18:24:24Z" finished-at="2022-12-08T18:24:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initBrowser -->
+        <test-method status="PASS" signature="addCategoryAndValidate()[pri:1, instance:test.AddCategoryTest@2d6e8792]" name="addCategoryAndValidate" duration-ms="6548" started-at="2022-12-08T18:24:27Z" finished-at="2022-12-08T18:24:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addCategoryAndValidate -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:test.AddCategoryTest@2d6e8792]" name="closeBrowser" is-config="true" duration-ms="786" started-at="2022-12-08T18:24:34Z" finished-at="2022-12-08T18:24:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="initBrowser()[pri:0, instance:test.AddCategoryTest@2d6e8792]" name="initBrowser" is-config="true" duration-ms="1835" started-at="2022-12-08T18:24:35Z" finished-at="2022-12-08T18:24:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initBrowser -->
+        <test-method status="PASS" signature="checkDuplicateCategory()[pri:2, instance:test.AddCategoryTest@2d6e8792]" name="checkDuplicateCategory" duration-ms="6336" started-at="2022-12-08T18:24:36Z" finished-at="2022-12-08T18:24:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkDuplicateCategory -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:test.AddCategoryTest@2d6e8792]" name="closeBrowser" is-config="true" duration-ms="709" started-at="2022-12-08T18:24:43Z" finished-at="2022-12-08T18:24:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="initBrowser()[pri:0, instance:test.AddCategoryTest@2d6e8792]" name="initBrowser" is-config="true" duration-ms="1736" started-at="2022-12-08T18:24:43Z" finished-at="2022-12-08T18:24:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initBrowser -->
+        <test-method status="PASS" signature="monthDropDown()[pri:3, instance:test.AddCategoryTest@2d6e8792]" name="monthDropDown" duration-ms="391" started-at="2022-12-08T18:24:45Z" finished-at="2022-12-08T18:24:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- monthDropDown -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:test.AddCategoryTest@2d6e8792]" name="closeBrowser" is-config="true" duration-ms="768" started-at="2022-12-08T18:24:46Z" finished-at="2022-12-08T18:24:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- test.AddCategoryTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- test.AddCategoryTest -->
+</testng-results>
